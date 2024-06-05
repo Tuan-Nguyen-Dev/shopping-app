@@ -18,6 +18,7 @@ const App = () => {
 
   return (
     <NavigationContainer>
+      {/* <MainNavigator /> */}
       {isWellcome ? (
         <Splash />
       ) : isLoging ? (

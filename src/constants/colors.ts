@@ -3,5 +3,6 @@ export const colors = {
   description: '#666666',
   gray: '#F3F4F5',
   gray2: '#aaaaaa',
-  white: '#ffffff'
+  white: '#ffffff',
+  primary: "#83B4FF"
 };
